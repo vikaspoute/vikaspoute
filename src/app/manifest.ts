@@ -4,10 +4,10 @@ export const dynamic = "force-static";
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "Vikas Poute | Software Engineer",
-    short_name: "VP Portfolio",
+    name: "Vikas Poute | Senior Software Engineer",
+    short_name: "Vikas Poute Portfolio",
     description:
-      "Vikas Poute - Real-time Systems & Flutter Architect Portfolio",
+      "Explore the portfolio of Vikas Poute, a Senior Software Engineer specializing in real-time communication systems, WebRTC, and scalable Flutter architectures.",
     start_url: "/",
     display: "standalone",
     background_color: "#000000",
