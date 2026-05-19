@@ -7,13 +7,9 @@ import {
   Shield,
   Zap,
   Layout,
-  BarChart3,
   Target,
   Network,
   Globe,
-  Cpu,
-  Wifi,
-  Terminal,
   ArrowUpRight,
 } from "lucide-react";
 
@@ -136,14 +132,14 @@ interface TiltCardProps {
 
 export const TiltCard: React.FC<TiltCardProps> = ({ children, className = "", glowColor }) => {
   const cardRef = useRef<HTMLDivElement>(null);
-  
+
   const x = useMotionValue(0);
   const y = useMotionValue(0);
-  
+
   const springConfig = { damping: 25, stiffness: 150, mass: 0.5 };
   const rotateX = useSpring(useTransform(y, [-0.5, 0.5], [8, -8]), springConfig);
   const rotateY = useSpring(useTransform(x, [-0.5, 0.5], [-8, 8]), springConfig);
-  
+
   const spotlightX = useSpring(useMotionValue(0), { damping: 30, stiffness: 200 });
   const spotlightY = useSpring(useMotionValue(0), { damping: 30, stiffness: 200 });
   const [isHovered, setIsHovered] = useState(false);
@@ -153,13 +149,13 @@ export const TiltCard: React.FC<TiltCardProps> = ({ children, className = "", gl
     const rect = cardRef.current.getBoundingClientRect();
     const width = rect.width;
     const height = rect.height;
-    
+
     const mouseXRelative = (e.clientX - rect.left) / width - 0.5;
     const mouseYRelative = (e.clientY - rect.top) / height - 0.5;
-    
+
     x.set(mouseXRelative);
     y.set(mouseYRelative);
-    
+
     spotlightX.set(e.clientX - rect.left - 175);
     spotlightY.set(e.clientY - rect.top - 175);
   };
@@ -297,7 +293,7 @@ export const RealtimeEngineering = () => {
       <div className="absolute bottom-0 right-0 w-48 h-48 border-b border-r border-white/[0.02] pointer-events-none z-0" />
 
       <div className="container mx-auto px-6 relative z-10">
-        
+
         {/* Cinematic Header Dashboard */}
         <motion.div
           initial={{ opacity: 0, y: -20 }}
@@ -308,7 +304,7 @@ export const RealtimeEngineering = () => {
         >
           <div className="flex flex-col md:flex-row justify-between items-start md:items-center p-6 border border-white/5 bg-white/[0.01] backdrop-blur-md rounded-sm gap-4 relative overflow-hidden">
             <div className="absolute top-0 left-0 w-24 h-[2px] bg-primary shadow-[0_0_10px_#00d4ff] animate-pulse" />
-            
+
             <div className="space-y-1">
               <div className="flex items-center gap-2 text-[10px] font-mono text-primary font-bold uppercase tracking-[0.4em]">
                 <span className="relative flex h-2 w-2">
@@ -325,15 +321,15 @@ export const RealtimeEngineering = () => {
             {/* Live Diagnostics readouts */}
             <div className="flex flex-wrap gap-6 font-mono text-[9px] text-white/40 border-l border-white/10 pl-0 md:pl-6">
               <div>
-                <span className="text-white/20 mr-1">// CORE:</span>
+                <span className="text-white/20 mr-1">{"// CORE:"}</span>
                 <span className="text-primary font-semibold">ACTIVE</span>
               </div>
               <div>
-                <span className="text-white/20 mr-1">// LATENCY:</span>
+                <span className="text-white/20 mr-1">{"// LATENCY:"}</span>
                 <span className="text-green-500 font-semibold">&lt;45ms GOAL</span>
               </div>
               <div>
-                <span className="text-white/20 mr-1">// RELIABILITY:</span>
+                <span className="text-white/20 mr-1">{"// RELIABILITY:"}</span>
                 <span className="text-white/60">100% MONITOR</span>
               </div>
             </div>
@@ -376,16 +372,14 @@ export const RealtimeEngineering = () => {
                     </div>
                     <div className="space-y-2">
                       <h3
-                        className={`font-black text-white tracking-tight leading-tight uppercase font-mono ${
-                          item.isWide ? "text-3xl md:text-4xl italic" : "text-lg"
-                        }`}
+                        className={`font-black text-white tracking-tight leading-tight uppercase font-mono ${item.isWide ? "text-3xl md:text-4xl italic" : "text-lg"
+                          }`}
                       >
                         {item.title.replace(" ", "_\n")}
                       </h3>
                       <p
-                        className={`text-white/40 leading-relaxed font-light ${
-                          item.isWide ? "text-sm md:text-base max-w-lg" : "text-[11px]"
-                        }`}
+                        className={`text-white/40 leading-relaxed font-light ${item.isWide ? "text-sm md:text-base max-w-lg" : "text-[11px]"
+                          }`}
                       >
                         {item.desc}
                       </p>
@@ -437,7 +431,7 @@ export const RealtimeEngineering = () => {
 
             <TiltCard glowColor="rgba(0, 212, 255, 0.4)" className="h-full flex flex-col justify-center items-center">
               <div className="text-center space-y-6 py-6 select-none relative z-10 w-full flex flex-col items-center">
-                
+
                 {/* Advanced Radar Rings Visualization */}
                 <div className="relative w-28 h-28 mx-auto flex items-center justify-center">
                   <motion.div
