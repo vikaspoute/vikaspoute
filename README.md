@@ -4,7 +4,7 @@
 
 **Software Engineer | Flutter · Java · Full-Stack Development**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&width=700&height=42&lines=Flutter+%26+Dart+Developer;Java+%26+Spring+Boot+Developer;Full-Stack+Developer;Cloud+%26+AWS+Enthusiast;Building+Scalable+Digital+Products" alt="Flutter Developer · Java Developer · Full-Stack Developer · AWS"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&width=700&height=42&lines=Flutter+%26+Dart+Developer;Java+%26+Spring+Boot+Developer;Full-Stack+Developer;Real-Time+Application+Developer;Building+Scalable+Digital+Products" alt="Flutter Developer · Java Developer · Full-Stack Developer · Real-Time Application Developer"/>
 
 **Building reliable mobile applications and full-stack products — from architecture and APIs to polished user experiences.**
 
@@ -17,9 +17,9 @@
 
 **CORE TECHNOLOGIES**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,react,nextjs,ts,mysql,firebase,aws&theme=light" alt="Flutter, Dart, Java, Spring Boot, React, Next.js, TypeScript, MySQL, Firebase, AWS"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,react,nextjs,ts,mysql,firebase,aws,socketio&theme=light" alt="Flutter, Dart, Java, Spring Boot, React, Next.js, TypeScript, MySQL, Firebase, AWS, Socket.IO"/>
 
-<sub>Flutter & Dart · Java & Spring Boot · React & Next.js · MySQL · Firebase · AWS</sub>
+<sub>Flutter & Dart · Java & Spring Boot · React & Next.js · MySQL · Firebase · AWS · WebRTC · Socket.IO</sub>
 
 </div>
 
@@ -163,7 +163,11 @@ My interests include practical developer utilities, reusable components, and mob
 
 **Backend, Data & Cloud**
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,mongodb,firebase,aws,cloudflare&theme=dark" alt="Spring, Node.js, Express, MySQL, MongoDB, Firebase, AWS, Cloudflare"/>
+<img src="https://skillicons.dev/icons?i=spring,mysql,firebase,aws,cloudflare&theme=dark" alt="Spring Boot, MySQL, Firebase, AWS, Cloudflare"/>
+
+**Real-Time Communication**
+
+`WebRTC` `Socket.IO` `Real-Time Messaging` `Audio / Video Calling` `Screen Sharing`
 
 **Tools & Workflow**
 
