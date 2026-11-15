@@ -2,7 +2,9 @@
 
 <h1 align="center">Vikas Poute &nbsp;<a href="https://linkedin.com/in/vikaspoute" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" alt="LinkedIn"/></a>&nbsp;<a href="https://github.com/vikaspoute" title="GitHub"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" alt="GitHub"/></a>&nbsp;<a href="https://devbyte.dev" title="Devbyte"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="20" alt="Devbyte"/></a>&nbsp;<a href="mailto:dev.vikaspoute@gmail.com" title="Email"><img src="https://img.icons8.com/fluency/48/mail.png" width="20" alt="Email"/></a></h1>
 
-**Software Engineer · Flutter · Java · Full-Stack Development**
+<h2 align="center"><strong>Flutter Developer&nbsp; · &nbsp;Java Developer&nbsp; · &nbsp;Java Full-Stack Developer</strong></h2>
+
+<p align="center"><strong>Mobile Application Engineer&nbsp; · &nbsp;Backend Developer&nbsp; · &nbsp;Full-Stack Software Engineer</strong></p>
 
 Flutter & Dart · Java & Spring Boot · React & Next.js · WebRTC · Socket.IO
 
