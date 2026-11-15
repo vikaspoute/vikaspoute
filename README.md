@@ -164,17 +164,6 @@ My interests include practical developer utilities, reusable components, and mob
 
 </div>
 
-## 📊 GitHub Overview
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vikaspoute&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikaspoute&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used languages"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vikaspoute&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity"/>
-
-</div>
-
 ## 🤝 Let's Connect
 
 <div align="center">
