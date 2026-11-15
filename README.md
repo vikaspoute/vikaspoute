@@ -1,16 +1,24 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,45:312E81,100:7C3AED&text=Vikas%20Poute&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=Software%20Engineer%20%7C%20Flutter%20%26%20Full-Stack%20Developer&descSize=18&descAlignY=59" alt="Vikas Poute — Software Engineer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:312E81,100:6D28D9&text=Vikas%20Poute&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=Software%20Engineer%20%7C%20Mobile%20%26%20Full-Stack%20Development&descSize=17&descAlignY=56" alt="Vikas Poute — Software Engineer"/>
 
-<a href="https://linkedin.com/in/vikaspoute"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=55&lines=Flutter+Developer+%F0%9F%93%B1;Java+%26+Spring+Boot+Developer+%E2%98%95;Full-Stack+Developer+%F0%9F%8C%90;Mobile+Application+Engineer+%F0%9F%9A%80;Building+Products+from+Idea+to+Launch+%E2%9C%A8" alt="Flutter Developer | Java Developer | Full-Stack Developer | Mobile Application Engineer"/>
+</a>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/vikaspoute"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://devbyte.dev"><img src="https://img.shields.io/badge/Devbyte-Explore-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Devbyte"/></a>
 <a href="mailto:dev.vikaspoute@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
-### I turn ideas into useful software.
+**I design, engineer, and ship scalable mobile and full-stack products.**
 
-**Mobile products · Real-time experiences · Developer tools · Puzzle games**
+Flutter · Java / Spring Boot · React / Next.js · Real-Time Systems · Product Engineering
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=vikaspoute&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" alt="Profile views"/>
 
@@ -194,8 +202,6 @@ My interests include practical developer utilities, reusable components, and mob
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=vikaspoute&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="GitHub statistics"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikaspoute&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used languages"/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=vikaspoute&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vikaspoute&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity"/>
 
