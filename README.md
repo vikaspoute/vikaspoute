@@ -1,165 +1,220 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:A3E635&height=200&section=header&text=Hi%2C%20I'm%20Vikas%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Flutter%20%26%20Full%20Stack%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111827,45:312E81,100:7C3AED&text=Vikas%20Poute&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=Software%20Engineer%20%7C%20Flutter%20%26%20Full-Stack%20Developer&descSize=18&descAlignY=59" alt="Vikas Poute — Software Engineer"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A3E635&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%93%B1;Real-time+Apps+%E2%80%A2+WebRTC+%E2%80%A2+Socket.IO;Java+Spring+Boot+Backend+%E2%98%95;Shipping+apps+to+Play+Store+%26+App+Store+%F0%9F%9A%80;Indie+Game+Dev+%40+Devbyte+%F0%9F%8E%AE" alt="Typing SVG" />
-</a>
+<a href="https://linkedin.com/in/vikaspoute"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://devbyte.dev"><img src="https://img.shields.io/badge/Devbyte-Explore-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Devbyte"/></a>
+<a href="mailto:dev.vikaspoute@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<br/>
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vikaspoute-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vikaspoute)
-[![Website](https://img.shields.io/badge/Website-devbyte.dev-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://devbyte.dev)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.vikaspoute@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@physmagic-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/physmagic)
+### I turn ideas into useful software.
 
-<img src="https://komarev.com/ghpvc/?username=vikaspoute&label=Profile%20Views&color=7C3AED&style=flat-square" alt="profile views"/>
+**Mobile products · Real-time experiences · Developer tools · Puzzle games**
 
-</div>
-
----
-
-## 🚀 About Me
-
-```dart
-class Vikas extends Developer {
-  final role       = "Flutter & Full Stack Developer";
-  final experience = "3.5+ years";
-  final location   = "India 🇮🇳";
-
-  final mobile     = ["Flutter", "Dart", "BLoC", "Riverpod", "Clean Architecture"];
-  final realtime   = ["WebRTC", "Socket.IO", "Video/Audio Calling", "Live Collaboration"];
-  final backend    = ["Java", "Spring Boot", "Node.js", "REST APIs"];
-  final cloud      = ["AWS", "Cloudflare", "Firebase", "GitHub Actions"];
-
-  final currentlyBuilding = "Indie puzzle games under Devbyte 🎮";
-  final openTo            = "Flutter / Mobile & Full Stack roles";
-}
-```
-
-- 📱 Built and shipped **8+ production Flutter apps** across on-demand services, community, e-commerce and school management
-- ⚡ Specialise in **real-time systems** — chat, notifications, WebRTC video/audio calling and a collaborative whiteboard built from scratch
-- 🧱 Own the **full stack end-to-end** — DB schema, APIs, app, integration and deployment
-- 🏪 Handle the **complete release cycle** on Google Play Console & App Store Connect (signing, TestFlight, reviews)
-- 👨‍💻 Promoted to **Software Engineer II** and led a team of 4 developers across 4 parallel projects
-- 💳 Experience with payment gateway integration and Google AdMob monetisation
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**📱 Mobile**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,swift&theme=dark" />
-
-**⚙️ Backend**
-
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,mongodb&theme=dark" />
-
-**🌐 Web**
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind&theme=dark" />
-
-**☁️ Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws,cloudflare,firebase,githubactions,git,github&theme=dark" />
-
-**🧰 Tools**
-
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma,linux&theme=dark" />
+<img src="https://komarev.com/ghpvc/?username=vikaspoute&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 🌟 Featured Work
+## 👨‍💻 About
+
+I'm a Software Engineer focused on **Flutter, mobile engineering, and full-stack product development**. I enjoy building software end to end — from shaping an idea and designing its architecture to implementing features, integrating services, improving performance, and preparing releases.
+
+I work across mobile applications, real-time communication, backend services, and web technologies. Outside professional work, I build independent products through my personal projects and the **[Devbyte](https://devbyte.dev)** ecosystem.
+
+- 📱 **Mobile:** Flutter, Dart, Android, Kotlin, Java
+- ⚡ **Real-time:** WebRTC, Socket.IO, messaging, audio/video calling, screen sharing, collaboration
+- ⚙️ **Backend:** Java, Spring Boot, REST APIs, MySQL, JPA, Hibernate
+- 🌐 **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS
+- ☁️ **Cloud & delivery:** Firebase, AWS, Cloudflare, GitHub Actions, CI/CD
+- 🧠 **Interests:** Clean architecture, developer tools, game systems, algorithms, and product engineering
+
+## 🚀 Personal Projects
+
+I like building complete products that combine thoughtful user experience with interesting engineering challenges.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💬 YChat
-Real-time chat app with instant messaging and push notifications, live on the stores.
+<div align="center">
+<a href="https://github.com/vikaspoute/onestroke">
+<img src="https://raw.githubusercontent.com/vikaspoute/onestroke/main/assets/brand/one_stroke_logo.png" width="88" alt="One Stroke logo"/>
+</a>
 
-`Flutter` `Socket.IO` `Firebase`
+### [One Stroke](https://github.com/vikaspoute/onestroke)
+**A graph-theory puzzle game**
+</div>
+
+Connect every edge in one continuous path without retracing a line.
+
+- Eulerian path and circuit validation
+- Hierholzer's algorithm for solving
+- Bridge-aware hints and dead-end detection
+- 1,000-level campaign design
+
+**Built with:** Flutter · Dart · Riverpod · Graph Algorithms
 
 </td>
 <td width="50%" valign="top">
 
-### 🩺 YCare
-Professional networking platform for medical professionals — profiles, connections, real-time messaging and video/audio calling.
+<div align="center">
+<a href="https://github.com/vikaspoute/drop">
+<img src="https://raw.githubusercontent.com/vikaspoute/drop/main/assets/logo/drop_logo.png" width="88" alt="Tilt and Drop logo"/>
+</a>
 
-`Flutter` `WebRTC` `BLoC` `Clean Architecture`
+### [Tilt & Drop](https://github.com/vikaspoute/drop)
+**A physics-based gravity puzzle**
+</div>
+
+Rotate the board and use gravity to guide colored balls into matching holes.
+
+- Deterministic pure-Dart simulation
+- 1,000-level campaign design
+- Blockers, ice tiles, and board mechanics
+- Daily puzzles and progression tracking
+
+**Built with:** Flutter · Dart · Riverpod · Physics Simulation
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🖊️ Collaborative Whiteboard
-Real-time multi-user whiteboard built from scratch in Flutter with a custom signalling server.
+<div align="center">
+<a href="https://github.com/vikaspoute/pipoku">
+<img src="https://raw.githubusercontent.com/vikaspoute/pipoku/main/assets/logo/play_store_512.png" width="88" alt="Pipoku logo"/>
+</a>
 
-`Flutter` `WebRTC` `Socket.IO` `BLoC`
+### [Pipoku](https://github.com/vikaspoute/pipoku)
+**A domino-based logic puzzle**
+</div>
 
-</td>
-<td width="50%" valign="top">
+Place dominoes on a grid and solve arithmetic and relational constraints through deduction.
 
-### 📊 [Sheetifye](https://pub.dev/packages/sheetifye)
-Open-source spreadsheet engine for Flutter, published on pub.dev.
+- Sum, equality, inequality, and bounds
+- Unique-solution puzzle design
+- Daily challenges and unlimited puzzles
+- Background-isolate puzzle generation
 
-`Flutter` `Dart` `Open Source`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎮 [Devbyte Games](https://devbyte.dev)
-My indie studio — clean, satisfying puzzle games like **One Stroke** and **Tilt & Drop**.
-
-`Flutter` `Game Dev` `AdMob`
+**Built with:** Flutter · Dart · Puzzle Algorithms
 
 </td>
 <td width="50%" valign="top">
 
-### ✨ PhysMagic
-Math & physics visualised as beautiful animated reels — formulas brought to life.
+<div align="center">
+<a href="https://github.com/vikaspoute/sheetifye">
+<img src="https://raw.githubusercontent.com/vikaspoute/sheetifye/main/screenshots/graphic.png" width="100%" alt="Sheetifye spreadsheet preview"/>
+</a>
 
-`Animation` `Math` `Creative Coding`
+### [Sheetifye](https://github.com/vikaspoute/sheetifye)
+**A native spreadsheet engine for Flutter**
+</div>
+
+A reusable spreadsheet package rendered directly on the Flutter canvas — no WebView or PlatformView.
+
+- Native XLSX and CSV support
+- Formula evaluation and dependency recalculation
+- Cell editing, undo/redo, clipboard, and autofill
+- Persistence lifecycle and cross-platform support
+
+**Built with:** Flutter · Dart · Riverpod
+
+[![pub package](https://img.shields.io/pub/v/sheetifye?label=pub.dev&logo=dart&color=0175C2)](https://pub.dev/packages/sheetifye)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/vikaspoute/sheetifye/blob/main/LICENSE)
 
 </td>
 </tr>
 </table>
 
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vikaspoute&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikaspoute&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<img src="https://streak-stats.demolab.com?user=vikaspoute&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vikaspoute&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+[**Explore all repositories →**](https://github.com/vikaspoute?tab=repositories)
 
 </div>
 
----
+## 🏢 Professional Engineering
+
+My professional experience includes building and delivering production mobile applications and end-to-end features across different product domains.
+
+| Focus area | Selected work |
+|---|---|
+| Mobile products | Flutter applications for service, community, commerce, and education use cases |
+| Real-time communication | Messaging, notifications, WebRTC audio/video calling, and screen-sharing workflows |
+| Collaboration tools | Multi-user whiteboard experiences and real-time synchronization |
+| Backend integration | REST APIs, Java/Spring Boot services, database design, and third-party integrations |
+| App delivery | Android and iOS build, signing, testing, store submission, and release workflows |
+| Product integrations | Payment gateway and mobile advertising integrations |
+
+*Some professional work is not publicly linked. This summary intentionally avoids sharing confidential client or implementation details.*
+
+## 🧩 Devbyte
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vikaspoute/vikaspoute/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<a href="https://devbyte.dev">
+<img src="https://img.shields.io/badge/DEVBYTE-devbyte.dev-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Devbyte website"/>
+</a>
+
+**An independent space for building and experimenting with software products.**
+
+</div>
+
+My interests include practical developer utilities, reusable components, and mobile puzzle games. The goal is to turn useful ideas into polished, accessible products.
+
+[Visit Devbyte](https://devbyte.dev) · [Browse my GitHub projects](https://github.com/vikaspoute?tab=repositories)
+
+## 🛠️ Technology
+
+<div align="center">
+
+**Mobile & Languages**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,swift&theme=dark" alt="Flutter, Dart, Kotlin, Java, Swift"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&theme=dark" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind"/>
+
+**Backend, Data & Cloud**
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,mongodb,firebase,aws,cloudflare&theme=dark" alt="Spring, Node.js, Express, MySQL, MongoDB, Firebase, AWS, Cloudflare"/>
+
+**Tools & Workflow**
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,figma,androidstudio,vscode,linux&theme=dark" alt="Git, GitHub, GitHub Actions, Postman, Figma, Android Studio, VS Code, Linux"/>
+
+</div>
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vikaspoute&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikaspoute&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used languages"/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=vikaspoute&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vikaspoute&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity"/>
+
+</div>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/vikaspoute"><img src="https://img.shields.io/badge/LinkedIn-vikaspoute-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://devbyte.dev"><img src="https://img.shields.io/badge/Website-devbyte.dev-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
+<a href="mailto:dev.vikaspoute@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
-### 🤝 Let's build something great together!
+**Open to meaningful engineering conversations and building great products together.**
 
-💡 *"Ship fast, ship clean, ship real-time."*
+*Thanks for visiting my profile.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A3E635,100:7C3AED&height=120&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7C3AED,100:111827" alt=""/>
 
 </div>
