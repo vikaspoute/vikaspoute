@@ -31,73 +31,46 @@ I work across mobile applications, real-time communication, backend services, an
 
 ## 🚀 Personal Projects
 
-I like building complete products that combine thoughtful user experience with interesting engineering challenges.
-
 <table>
 <tr>
-<td width="50%" valign="top">
-
-<div align="center">
-<a href="https://github.com/vikaspoute/onestroke">
-<img src="https://raw.githubusercontent.com/vikaspoute/onestroke/main/assets/brand/one_stroke_logo.png" width="88" alt="One Stroke logo"/>
-</a>
-
-### [One Stroke](https://github.com/vikaspoute/onestroke)
-**A graph-theory puzzle game**
-</div>
-
-Connect every edge in one continuous path without retracing a line.
-
-- Eulerian path and circuit validation
-- Hierholzer's algorithm for solving
-- Bridge-aware hints and dead-end detection
-- 1,000-level campaign design
-
-**Built with:** Flutter · Dart · Riverpod · Graph Algorithms
-
+<td width="96" align="center" valign="middle">
+<a href="https://github.com/vikaspoute/onestroke"><img src="https://raw.githubusercontent.com/vikaspoute/onestroke/main/assets/brand/one_stroke_logo.png" width="68" alt="One Stroke"/></a>
 </td>
-<td width="50%" valign="top">
+<td valign="middle">
 
-<div align="center">
-<a href="https://github.com/vikaspoute/drop">
-<img src="https://raw.githubusercontent.com/vikaspoute/drop/main/assets/logo/drop_logo.png" width="88" alt="Tilt and Drop logo"/>
-</a>
+**[One Stroke](https://github.com/vikaspoute/onestroke)** · *Graph-theory puzzle game*
 
-### [Tilt & Drop](https://github.com/vikaspoute/drop)
-**A physics-based gravity puzzle**
-</div>
+A single-stroke puzzle built around Eulerian paths, graph validation, and intelligent hints.
 
-Rotate the board and use gravity to guide colored balls into matching holes.
-
-- Deterministic pure-Dart simulation
-- 1,000-level campaign design
-- Blockers, ice tiles, and board mechanics
-- Daily puzzles and progression tracking
-
-**Built with:** Flutter · Dart · Riverpod · Physics Simulation
+<sub>Flutter · Dart · Riverpod · Graph Algorithms</sub>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="96" align="center" valign="middle">
+<a href="https://github.com/vikaspoute/drop"><img src="https://raw.githubusercontent.com/vikaspoute/drop/main/assets/logo/drop_logo.png" width="68" alt="Tilt & Drop"/></a>
+</td>
+<td valign="middle">
 
-<div align="center">
-<a href="https://github.com/vikaspoute/pipoku">
-<img src="https://raw.githubusercontent.com/vikaspoute/pipoku/main/assets/logo/play_store_512.png" width="88" alt="Pipoku logo"/>
-</a>
+**[Tilt & Drop](https://github.com/vikaspoute/drop)** · *Physics-based puzzle game*
 
-### [Pipoku](https://github.com/vikaspoute/pipoku)
-**A domino-based logic puzzle**
-</div>
+A gravity puzzle with deterministic simulation, board rotation, blockers, and ice mechanics.
 
-Place dominoes on a grid and solve arithmetic and relational constraints through deduction.
+<sub>Flutter · Dart · Riverpod · Physics Simulation</sub>
 
-- Sum, equality, inequality, and bounds
-- Unique-solution puzzle design
-- Daily challenges and unlimited puzzles
-- Background-isolate puzzle generation
+</td>
+</tr>
+<tr>
+<td width="96" align="center" valign="middle">
+<a href="https://github.com/vikaspoute/pipoku"><img src="https://raw.githubusercontent.com/vikaspoute/pipoku/main/assets/logo/play_store_512.png" width="68" alt="Pipoku"/></a>
+</td>
+<td valign="middle">
 
-**Built with:** Flutter · Dart · Puzzle Algorithms
+**[Pipoku](https://github.com/vikaspoute/pipoku)** · *Domino logic puzzle*
+
+A deduction-based puzzle combining domino placement with arithmetic and relational constraints.
+
+<sub>Flutter · Dart · Puzzle Algorithms · Isolates</sub>
 
 </td>
 </tr>
