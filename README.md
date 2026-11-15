@@ -1,12 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:312E81,100:6D28D9&text=Vikas%20Poute&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=Software%20Engineer%20%7C%20Mobile%20%26%20Full-Stack%20Development&descSize=17&descAlignY=56" alt="Vikas Poute — Software Engineer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:111827,50:1E1B4B,100:6D28D9&text=Vikas%20Poute&fontColor=FFFFFF&fontSize=56&fontAlignY=36&desc=Software%20Engineer%20%7C%20Mobile%20%26%20Full-Stack%20Developer&descSize=17&descAlignY=56" alt="Vikas Poute — Software Engineer"/>
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=55&lines=Flutter+Developer+%F0%9F%93%B1;Java+%26+Spring+Boot+Developer+%E2%98%95;Full-Stack+Developer+%F0%9F%8C%90;Mobile+Application+Engineer+%F0%9F%9A%80;Building+Products+from+Idea+to+Launch+%E2%9C%A8" alt="Flutter Developer | Java Developer | Full-Stack Developer | Mobile Application Engineer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=55&lines=Flutter+%26+Dart+Developer;Java+%26+Spring+Boot+Developer;Full-Stack+Developer;Mobile+Application+Engineer;Building+Scalable+Digital+Products" alt="Flutter and Dart Developer | Java and Spring Boot Developer | Full-Stack Developer | Mobile Application Engineer"/>
 </a>
 
 <br/><br/>
+
+**I build reliable mobile applications and full-stack products — from architecture and APIs to polished user experiences.**
+
+<br/>
 
 <a href="https://linkedin.com/in/vikaspoute"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://devbyte.dev"><img src="https://img.shields.io/badge/Devbyte-Explore-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Devbyte"/></a>
@@ -14,11 +18,13 @@
 
 <br/><br/>
 
-**I design, engineer, and ship scalable mobile and full-stack products.**
+**CORE TECHNOLOGIES**
 
-Flutter · Java / Spring Boot · React / Next.js · Real-Time Systems · Product Engineering
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,react,nextjs,ts,mysql,firebase&theme=dark" alt="Flutter, Dart, Java, Spring Boot, React, Next.js, TypeScript, MySQL, Firebase"/>
 
-<br/>
+<sub>Primary focus: Flutter & Dart · Java & Spring Boot · React & Next.js · API & Database Integration</sub>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=vikaspoute&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" alt="Profile views"/>
 
@@ -28,7 +34,7 @@ Flutter · Java / Spring Boot · React / Next.js · Real-Time Systems · Product
 
 ## 👨‍💻 About
 
-I'm a Software Engineer focused on **Flutter, mobile engineering, and full-stack product development**. I enjoy building software end to end — from shaping an idea and designing its architecture to implementing features, integrating services, improving performance, and preparing releases.
+I'm a Software Engineer specializing in **cross-platform mobile development and full-stack engineering**. My core strengths are Flutter and Dart for mobile applications, Java and Spring Boot for backend development, and modern web technologies for building complete digital products. I care about maintainable architecture, performance, clean implementation, and delivering features that solve real problems.
 
 I work across mobile applications, real-time communication, backend services, and web technologies. Outside professional work, I build independent products through my personal projects and the **[Devbyte](https://devbyte.dev)** ecosystem.
 
@@ -108,30 +114,6 @@ Place dominoes on a grid and solve arithmetic and relational constraints through
 - Background-isolate puzzle generation
 
 **Built with:** Flutter · Dart · Puzzle Algorithms
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-<a href="https://github.com/vikaspoute/sheetifye">
-<img src="https://raw.githubusercontent.com/vikaspoute/sheetifye/main/screenshots/graphic.png" width="100%" alt="Sheetifye spreadsheet preview"/>
-</a>
-
-### [Sheetifye](https://github.com/vikaspoute/sheetifye)
-**A native spreadsheet engine for Flutter**
-</div>
-
-A reusable spreadsheet package rendered directly on the Flutter canvas — no WebView or PlatformView.
-
-- Native XLSX and CSV support
-- Formula evaluation and dependency recalculation
-- Cell editing, undo/redo, clipboard, and autofill
-- Persistence lifecycle and cross-platform support
-
-**Built with:** Flutter · Dart · Riverpod
-
-[![pub package](https://img.shields.io/pub/v/sheetifye?label=pub.dev&logo=dart&color=0175C2)](https://pub.dev/packages/sheetifye)
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/vikaspoute/sheetifye/blob/main/LICENSE)
 
 </td>
 </tr>
