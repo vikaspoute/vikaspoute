@@ -1,32 +1,31 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:111827,50:1E1B4B,100:6D28D9&text=Vikas%20Poute&fontColor=FFFFFF&fontSize=56&fontAlignY=36&desc=Software%20Engineer%20%7C%20Mobile%20%26%20Full-Stack%20Developer&descSize=17&descAlignY=56" alt="Vikas Poute — Software Engineer"/>
+# Vikas Poute
+
+### Software Engineer · Mobile & Full-Stack Development
 
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=760&height=55&lines=Flutter+%26+Dart+Developer;Java+%26+Spring+Boot+Developer;Full-Stack+Developer;Mobile+Application+Engineer;Building+Scalable+Digital+Products" alt="Flutter and Dart Developer | Java and Spring Boot Developer | Full-Stack Developer | Mobile Application Engineer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&width=720&height=45&lines=Flutter+%26+Dart+Developer;Java+%26+Spring+Boot+Developer;Full-Stack+Developer;Mobile+Application+Engineer;Building+Scalable+Digital+Products" alt="Flutter and Dart Developer · Java and Spring Boot Developer · Full-Stack Developer"/>
 </a>
 
-<br/><br/>
+<br/>
 
 **I build reliable mobile applications and full-stack products — from architecture and APIs to polished user experiences.**
 
 <br/>
 
-<a href="https://linkedin.com/in/vikaspoute"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://devbyte.dev"><img src="https://img.shields.io/badge/Devbyte-Explore-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Devbyte"/></a>
-<a href="mailto:dev.vikaspoute@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://linkedin.com/in/vikaspoute" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://github.com/vikaspoute" title="GitHub"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" alt="GitHub"/></a>&nbsp;&nbsp;
+<a href="https://devbyte.dev" title="Devbyte"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="24" alt="Devbyte website"/></a>&nbsp;&nbsp;
+<a href="mailto:dev.vikaspoute@gmail.com" title="Email"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="24" alt="Email"/></a>
 
 <br/><br/>
 
 **CORE TECHNOLOGIES**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,react,nextjs,ts,mysql,firebase&theme=dark" alt="Flutter, Dart, Java, Spring Boot, React, Next.js, TypeScript, MySQL, Firebase"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,react,nextjs,ts,mysql,firebase&theme=light" alt="Flutter, Dart, Java, Spring Boot, React, Next.js, TypeScript, MySQL, Firebase"/>
 
-<sub>Primary focus: Flutter & Dart · Java & Spring Boot · React & Next.js · API & Database Integration</sub>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=vikaspoute&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" alt="Profile views"/>
+<sub>Primary stack: Flutter & Dart · Java & Spring Boot · React & Next.js · MySQL · Firebase</sub>
 
 </div>
 
