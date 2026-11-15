@@ -1,32 +1,14 @@
 <div align="center">
 
-<h1 align="center">
-  Vikas Poute
-  <span>
-    <a href="https://linkedin.com/in/vikaspoute" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" alt="LinkedIn"/></a>&nbsp;
-    <a href="https://github.com/vikaspoute" title="GitHub"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" alt="GitHub"/></a>&nbsp;
-    <a href="https://devbyte.dev" title="Devbyte"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="20" alt="Devbyte"/></a>&nbsp;
-    <a href="mailto:dev.vikaspoute@gmail.com" title="Email"><img src="https://img.icons8.com/fluency/48/mail.png" width="20" alt="Email"/></a>
-  </span>
-</h1>
+<h1 align="center">Vikas Poute &nbsp;<a href="https://linkedin.com/in/vikaspoute" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" alt="LinkedIn"/></a>&nbsp;<a href="https://github.com/vikaspoute" title="GitHub"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" alt="GitHub"/></a>&nbsp;<a href="https://devbyte.dev" title="Devbyte"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="20" alt="Devbyte"/></a>&nbsp;<a href="mailto:dev.vikaspoute@gmail.com" title="Email"><img src="https://img.icons8.com/fluency/48/mail.png" width="20" alt="Email"/></a></h1>
 
-**Software Engineer | Flutter · Java · Full-Stack Development**
+**Software Engineer · Flutter · Java · Full-Stack Development**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&width=700&height=42&lines=Flutter+%26+Dart+Developer;Java+%26+Spring+Boot+Developer;Full-Stack+Developer;Real-Time+Application+Developer;Building+Scalable+Digital+Products" alt="Flutter Developer · Java Developer · Full-Stack Developer · Real-Time Application Developer"/>
-
-**Building reliable mobile applications and full-stack products — from architecture and APIs to polished user experiences.**
-
-<a href="https://github.com/vikaspoute" title="GitHub"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" alt="GitHub"/></a>&nbsp;&nbsp;
-<a href="https://devbyte.dev" title="Devbyte"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="22" alt="Devbyte"/></a>&nbsp;&nbsp;
-<a href="mailto:dev.vikaspoute@gmail.com" title="Email"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="22" alt="Email"/></a>
-
-<br/>
+Flutter & Dart · Java & Spring Boot · React & Next.js · WebRTC · Socket.IO
 
 **CORE TECHNOLOGIES**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,react,nextjs,ts,mysql,firebase,aws,socketio&theme=light" alt="Flutter, Dart, Java, Spring Boot, React, Next.js, TypeScript, MySQL, Firebase, AWS, Socket.IO"/>
-
-<sub>Flutter & Dart · Java & Spring Boot · React & Next.js · MySQL · Firebase · AWS · WebRTC · Socket.IO</sub>
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,react,nextjs,ts,mysql,firebase,aws&theme=light" alt="Flutter, Dart, Java, Spring Boot, React, Next.js, TypeScript, MySQL, Firebase, AWS"/>
 
 </div>
 
