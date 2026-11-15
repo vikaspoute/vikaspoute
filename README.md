@@ -1,6 +1,10 @@
 <div align="center">
 
-# Vikas Poute
+<h1 align="center">
+  Vikas Poute
+  <a href="https://linkedin.com/in/vikaspoute" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" alt="LinkedIn"/></a>
+  <a href="mailto:dev.vikaspoute@gmail.com" title="Email"><img src="https://img.icons8.com/fluency/48/mail.png" width="22" alt="Email"/></a>
+</h1>
 
 **Software Engineer | Flutter · Java · Full-Stack Development**
 
@@ -8,7 +12,6 @@
 
 **Building reliable mobile applications and full-stack products — from architecture and APIs to polished user experiences.**
 
-<a href="https://linkedin.com/in/vikaspoute" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="https://github.com/vikaspoute" title="GitHub"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" alt="GitHub"/></a>&nbsp;&nbsp;
 <a href="https://devbyte.dev" title="Devbyte"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="22" alt="Devbyte"/></a>&nbsp;&nbsp;
 <a href="mailto:dev.vikaspoute@gmail.com" title="Email"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="22" alt="Email"/></a>
