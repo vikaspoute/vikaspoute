@@ -2,30 +2,24 @@
 
 # Vikas Poute
 
-### Software Engineer · Mobile & Full-Stack Development
+**Software Engineer | Flutter · Java · Full-Stack Development**
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&width=720&height=45&lines=Flutter+%26+Dart+Developer;Java+%26+Spring+Boot+Developer;Full-Stack+Developer;Mobile+Application+Engineer;Building+Scalable+Digital+Products" alt="Flutter and Dart Developer · Java and Spring Boot Developer · Full-Stack Developer"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&width=700&height=42&lines=Flutter+%26+Dart+Developer;Java+%26+Spring+Boot+Developer;Full-Stack+Developer;Cloud+%26+AWS+Enthusiast;Building+Scalable+Digital+Products" alt="Flutter Developer · Java Developer · Full-Stack Developer · AWS"/>
+
+**Building reliable mobile applications and full-stack products — from architecture and APIs to polished user experiences.**
+
+<a href="https://linkedin.com/in/vikaspoute" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://github.com/vikaspoute" title="GitHub"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" alt="GitHub"/></a>&nbsp;&nbsp;
+<a href="https://devbyte.dev" title="Devbyte"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="22" alt="Devbyte"/></a>&nbsp;&nbsp;
+<a href="mailto:dev.vikaspoute@gmail.com" title="Email"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="22" alt="Email"/></a>
 
 <br/>
-
-**I build reliable mobile applications and full-stack products — from architecture and APIs to polished user experiences.**
-
-<br/>
-
-<a href="https://linkedin.com/in/vikaspoute" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="24" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="https://github.com/vikaspoute" title="GitHub"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24" alt="GitHub"/></a>&nbsp;&nbsp;
-<a href="https://devbyte.dev" title="Devbyte"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="24" alt="Devbyte website"/></a>&nbsp;&nbsp;
-<a href="mailto:dev.vikaspoute@gmail.com" title="Email"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="24" alt="Email"/></a>
-
-<br/><br/>
 
 **CORE TECHNOLOGIES**
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,react,nextjs,ts,mysql,firebase&theme=light" alt="Flutter, Dart, Java, Spring Boot, React, Next.js, TypeScript, MySQL, Firebase"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,react,nextjs,ts,mysql,firebase,aws&theme=light" alt="Flutter, Dart, Java, Spring Boot, React, Next.js, TypeScript, MySQL, Firebase, AWS"/>
 
-<sub>Primary stack: Flutter & Dart · Java & Spring Boot · React & Next.js · MySQL · Firebase</sub>
+<sub>Flutter & Dart · Java & Spring Boot · React & Next.js · MySQL · Firebase · AWS</sub>
 
 </div>
 
